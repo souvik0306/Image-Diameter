@@ -1,5 +1,5 @@
-# Image-Diameter
-Measurement of diameter of an object via MATLAB
+## Image-Diameter
+Measurement of diameter of an object via MATLAB 
 
 ## Process
 Through this application one will be able to write a MATLAB script file to import an image,
