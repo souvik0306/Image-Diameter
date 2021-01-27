@@ -1,4 +1,4 @@
-## Image-Diameter
+## Aim
 Measurement of diameter of an object via MATLAB 
 
 ## Process
